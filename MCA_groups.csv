@@ -1,0 +1,40 @@
+Variable,Cluster,Sub-Cluster,Description,MCA Group
+m_ccr_num_of_loans_cur_and_ope,0,,"Total number of open and current loans (no closed, charged off, sent to collection)",Inquiry & Activity
+m_ccr_days_since_last_ontime_pmt,0,,Number of days since last on-time payment on a loan was made,Inquiry & Activity
+m_cbb_B04,1,1,Secondary account has no retail check writing history,Inquiry & Activity
+m_ccr_cd_29,1,1,Number of reported bank accounts,Inquiry & Activity
+m_ccr_cd_33,1,1,Insufficient recent online payday loan activity,Inquiry & Activity
+m_ccr_d_since_1st_loan_paidoff,1,1,Number of days since first paid off loan,Inquiry & Activity
+m_caaea_all2427,1,1,Total number of trades opened in the last 12 months ever 30 or more days delinquent or derogatory excluding collections,Inquiry & Activity
+m_ccrea_bcc2688,1,1,Total number of revolving bankcard trades ever 90 or more days delinquent or derogatory opened in last 24 months,Inquiry & Activity
+m_inq_date_of_last_activity,1,1,Number of days since last inquiry on this SSN submitted for the same inquiry purpose type and tradeline type.,Inquiry & Activity
+m_CCRS_ALL_dd_7_years_ago,1,1,Number of days with one or more open/active loans in the last 7 years,Inquiry & Activity
+m_CAAS_C1_inq_3_years_ago,1,1,Total number of Online Single Payment Loan (C1) inquiries in the last 3 years,Inquiry & Activity
+m_CAAS_C5_inq_1_year_ago,1,1,Total number of Rent to Own Credit inquiries in the last 1 year,Inquiry & Activity
+m_CAAS_C5_inq_180_days_ago,1,1,Total number of Rent to Own Credit inquiries in the last 180 days,Inquiry & Activity
+m_CCRS_C1_inq_90_days_ago,1,1,Number of Online Single Payment inquiries in the last 90 days,Inquiry & Activity
+m_bba_p_validated_through_trades,1,1,"Returns ""true"" if Clarity has a tradeline, associated with the bank account, where the 1st payment cycle has passed.",Inquiry & Activity
+m_CAAS_C3_ato_7_days_ago,1,2,Total amount of Online Installment loans in the last 7 days,Inquiry & Activity
+m_ccr_num_of_loans_past_due,1,4,Total number of open and past due loans,Inquiry & Activity
+m_bba_p_B38,1,5,No Secondary Accounts,Inquiry & Activity
+m_caaea_brc0300,2,,Total number of credit card trades,Inquiry & Activity
+m_ccrea_rtr5038,1,1,"Total balance on open or closed with a balance > $0 revolving retail trades with actual payment >$0 excluding derogatory trades, reported in the last 6 months",Inquiry & Activity
+m_CCRS_ALL_dd_30_days_ago,0,,Number of days with one or more open/active loans in the last 30 days,Risk-Implied & Late Payments
+m_ccr_days_since_last_loan_pmt,0,,Number of days since last payment was made,Risk-Implied & Late Payments
+m_CCRS_ALL_acl_3_years_ago,1,0,Total amount of loans in collections in the last 3 years,Risk-Implied & Late Payments
+m_cbb_num_of_accounts_with_defa,1,1,Returns the number of bank accounts with default history.,Risk-Implied & Late Payments
+m_ccr_worst_payment_rating,1,1,Returns the worst payment rating for any tradelines associated with the consumer,Risk-Implied & Late Payments
+m_CCRS_ALL_nlp_60_days_ago,1,3,Number of loans with late payment in the last 60 days,Risk-Implied & Late Payments
+m_CCRS_ALL_nlp_90_days_ago,1,3,Number of loans with late payment in the last 90 days,Risk-Implied & Late Payments
+m_caaea_brc3425,2,,Total number of open credit card trades with a balance to credit limit ratio >= 75 reported in the last 6 months,Risk-Implied & Late Payments
+m_caaea_rev3421,2,,Total number of open revolving trades with a balance to credit amount ratio >= 50 reported in the last 6 months,Risk-Implied & Late Payments
+m_caaea_rev4070,2,,Total number of occurrences of 30 days delinquency in the last 12 months on revolving trades excluding unsatisfied derogatory,Risk-Implied & Late Payments
+m_ccrea_rev4080,2,,Total number of occurrences of 30 days delinquency in the last 24 months on revolving trades excluding unsatisfied derogatory,Risk-Implied & Late Payments
+m_CCRS_ALL_alp_7_years_ago,3,,Total amount of loans with late payment in the last 7 years,Risk-Implied & Late Payments
+m_CCRS_ALL_dlp_2_years_ago,3,,Number of days any loan was with late payment in the last 2 years,Risk-Implied & Late Payments
+m_CCRS_ALL_dlp_7_years_ago,3,,Number of days any loan was with late payment in the last 7 years,Risk-Implied & Late Payments
+m_CCRS_ALL_nlp_2_years_ago,3,,Number of loans with late payment in the last 2 years,Risk-Implied & Late Payments
+m_ccrea_aua6280_0,,,Worst ever status on an auto loan or lease trade in the last 24 months including indeterminates,Risk-Implied & Late Payments
+m_ccrea_aua6280_1,,,Worst ever status on an auto loan or lease trade in the last 24 months including indeterminates,Risk-Implied & Late Payments
+m_ccrea_aua6280_2,,,Worst ever status on an auto loan or lease trade in the last 24 months including indeterminates,Risk-Implied & Late Payments
+m_ccrea_aua6280_3,,,Worst ever status on an auto loan or lease trade in the last 24 months including indeterminates,Risk-Implied & Late Payments

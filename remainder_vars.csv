@@ -1,0 +1,18 @@
+m_bba_p_d_since_validated_trade,"Returns the number of days since Clarity has seen a tradeline, associated with the bank account, where the 1st payment cycle has passed."
+m_bba_p_default_rate_60_days_ago,Returns the percentage of tradelines that defaulted for the routing number in the last 60 days.
+m_bba_p_default_rate_61_365_d_a,Returns the percentage of tradelines that defaulted for the routing number in the last 61-365 days.
+m_caaea_col2758,Total number of collections that were placed with the collector in the last 24 months
+m_caaea_col5060,Total balance on collections
+m_CAAS_C5_inq_2_years_ago,Total number of Rent to Own Credit inquiries in the last 2 years
+m_ccr_d_since_last_loan_paidoff,Number of days since last paid off loan
+m_ccr_d_since_previous_bankacct,Number of days since the previous/newest bank account was first by Clarity
+m_ccr_d_since_reported_income_p,Number of days since Clarity last received consumer reported income.
+m_ccr_num_of_employ_last_6_mon,Total number of employers reported in the last six months
+m_ccrea_col3210,Total number of collections with balance > $250
+m_caaea_all0317,Total number of trades reported in the last 12 months excluding collections
+m_caaea_all5360,Total credit amount on unsatisfied derogatory trades including collections
+m_caaea_all2380,Total number of trades ever 90 or more days delinquent or derogatory including collections
+m_caaea_all3517,Total number of trades with a balance > $0 and amount past due > $0 reported in the last 6 months excluding derogatory and collection trades
+m_ccrea_fip1380,Total number of personal finance trades never delinquent or derogatory in the last 24 months
+m_caaea_taua4710,Number of months since most recent month to month balance increase over the last 24 months of open or closed with a balance > $0 auto loan or lease trade with the highest most recently reported balance excluding derogatory trades reported in the last 3 months
+m_ccrea_iln7150,Overall scheduled payment to actual payment ratio on open installment trades with actual payment > $0 reported in last 6 months

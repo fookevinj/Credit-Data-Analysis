@@ -1,0 +1,94 @@
+﻿Variable,Cluster,Sub-Cluster,Description,PCA Groups,Categories
+m_caaea_bca0416,0,,Total number of open bankcard revolving and charge trades reported in the last 6 months,Bank/Credit Card Activity & Trades,nto bankcard trades
+m_caaea_bcc0416,0,,Total number of open revolving bankcard trades opened at least 6 months reported in the last 6 months,Bank/Credit Card Activity & Trades,nto bankcard trades
+m_caaea_bcc0446,0,,Total number of open revolving bankcard trades opened at least 6 months reported in the last 6 months,Bank/Credit Card Activity & Trades,nto bankcard trades
+m_caaea_bcc1360,0,,Total number of revolving bankcard trades never delinquent or derogatory occurred in the last 6 months,Bank/Credit Card Activity & Trades,nto bankcard trades
+m_caaea_rev1360,0,,Total number of revolving trades never delinquent or derogatory occurred in the last 6 months,Bank/Credit Card Activity & Trades,nto bankcard trades
+m_ccrea_als2000,0,,Total number of open trades presently satisfactory reported in the last 6 months excluding student loans,Bank/Credit Card Activity & Trades,nto bankcard trades
+m_caaea_all0400,2,1,Total number of open trades,Bank/Credit Card Activity & Trades,nto all trades
+m_caaea_all1360,2,1,Total number of trades never delinquent or derogatory occurred in the last 6 months,Bank/Credit Card Activity & Trades,nto all trades
+m_caaea_all1380,2,1,Total number of trades never delinquent or derogatory occurred in the last 24 months,Bank/Credit Card Activity & Trades,nto all trades
+m_caaea_all2000,2,1,Total number of open trades presently satisfactory reported in the last 6 months,Bank/Credit Card Activity & Trades,nto all trades
+m_caaea_brc1300,2,1,Total number of credit card trades never delinquent or derogatory,Bank/Credit Card Activity & Trades,nto bankcard trades
+m_caaea_rev1300,2,1,Total number of revolving trades never delinquent or derogatory,Bank/Credit Card Activity & Trades,
+m_cbb_number_of_accounts_all,2,1,Returns the number of distinct bank accounts ever seen by Clarity including the current inquiry bank account.,Bank/Credit Card Activity & Trades,nto accounts
+m_ccrea_all7360,2,1,Percentage of trades including collections that are ever 90 or more days delinquent of derogatory,Bank/Credit Card Activity & Trades,
+m_ccrea_all7936,2,1,Percentage of trades reported in the last 6 months including collections that are never delinquent or derogatory occurred in the last 6 months,Bank/Credit Card Activity & Trades,
+m_ccrea_rev7432,2,1,Percentage of revolving trades reported in the last 6 months that are never delinquent of derogatory occurred in the last 6 months,Bank/Credit Card Activity & Trades,
+m_caaea_bcc3421,0,,Total number of open revolving bankcard trades with a balance to credit amount ratio >= 50 reported in the last 6 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_bcc3512,2,1,Total number of revolving bankcard trades with a balance > $0 opened in the last 12 months reported in the last 6 months excluding derogatory trades,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_bcc5620,2,1,Total available credit amount on open revolving bankcard trades reported in the last 6 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_bcc7117,2,1,Overall balance to credit amount ratio on open revolving bankcard trades opened in the last 12 months with credit amount > $0,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_tbca2301,2,1,"Average of average balance to credit amount ratio over the last 6 months of open, or closed with a balance > $0 bankcard revolving and charge trades, excluding derogatory trades, reported in the last 3 months",Credit Card Utilization,
+m_caaea_tbcc1502,2,1,"Total number of occurrences of balance greater than credit amount over the last 3 months of open, or closed with a balance > $0 revolving bankcard trades, excluding derogatory trades, reported in the last 3 months",Credit Card Utilization,
+m_cbb_num_of_unknown_risk_accou,2,1,Returns the number of unknown risk accounts.,Credit Card Utilization,nto accounts
+m_ccrea_bcx7110,2,1,"Overall balance to credit amount ratio on open revolving bankcard trades reported in the last 6 months with credit amount > $0, excluding authorized user trades",Credit Card Utilization,
+m_ccrea_brc5747,2,1,Total amount past due on credit card trades presently 90-180 days delinquent reported in the last 6 months,Credit Card Utilization,
+m_ccrea_brc7140,2,1,Overall balance to credit limit ratio on open credit card trades reported in the last 6 months with credit limit > $0,Credit Card Utilization,
+m_ccrea_brc7160,2,1,Overall actual payment to balance ratio on open or closed with a balance > $0 credit card trades with actual payment > $0 excluding derogatory trades reported in the last 6 months,Credit Card Utilization,
+m_caaea_bca5020,3,,Total balance on open bankcard revolving and charge trades reported in the last 6 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_bcc5320,3,,Total credit amount on open revolving bankcard trades reported in the last 6 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_bcc5421,3,,Credit amount on the most recently opened open revolving bankcard trade with credit amount > $0,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_brc5020,3,,Total balance on open credit card trades reported in the last 6 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_brc5830,3,,"Total monthly payment on open, or closed with a balance > $0 credit card trades, reported in the last 6 months excluding derogatory trades",Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_rev3510,3,,Total number of revolving trades with a balance > $0 reported in the last 6 months excluding derogatory trades,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_rev5320,3,,Total credit amount on open revolving trades reported in the last 6 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_rev5420,3,,Maximum credit amount on open revolving trades reported in the last 6 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_tbca2619,3,,"Percentage of open, or closed with a balance > $0 bankcard revolving and charge trades with negative slope of balance over the last 6 months, excluding derogatory trades, reported in the last 2 months",Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_tbca3255,3,,Maximum month to month total balance increase over the last 12 months of open or closed with a balance > $0 bankcard revolving and charge trades excluding derogatory trades reported in the last 3 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_tbcc2261,3,,Sum of differences between average balance in the month 0 to month 6 and average balance in the month 7 to month 12 of open or closed with a balance > $0 revolving bankcard trades excluding derogatory trades reported in the last 3 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_caaea_tbcc4355,3,,"Maximum month to month total balance to credit amount ratio increase over the last 24 months of open, or closed with a balance > $0 revolving bankcard trades, excluding derogatory trades, reported in the last 3 months",Credit Card Utilization,balance/credit amount  bankcard trades
+m_ccrea_bcc7216,3,,Percentage of balance on open revolving trades reported in the last 6 months that are revolving bankcard trades (requires 2 or more qualified trades),Credit Card Utilization,balance/credit amount  bankcard trades
+m_ccrea_tbca3283,3,,Ratio of most recently reported balance to maximum monthly balance over the last 12 months of open or closed with a balance >$0 bankcard revolving and charge trade with the highest 12 month average balance excluding derogatory trades reported in the last 3 months,Credit Card Utilization,balance/credit amount  bankcard trades
+m_ccrea_tbcc2303,3,,"Difference between total balance to credit amount ratio in the most recently reported month and total balance to credit amount ratio in the month 6 of open, or closed with a balance > $0 revolving bankcard trades, excluding derogatory trades, reported in the last 1 month",Credit Card Utilization,balance/credit amount  bankcard trades
+m_ccrea_tbcc2351,3,,"Maximum total balance to credit amount ratio over the last 6 months of open, or closed with a balance > $0 revolving bankcard trades, excluding derogatory trades, reported in the last 3 months",Credit Card Utilization,balance/credit amount  bankcard trades
+m_ccrea_tbcc3203,3,,"Sum of differences between the most recently reported balance and month 12 balance of open, or closed with a balance > $0 revolving bankcard trades, excluding derogatory trades, reported in the last 1 month",Credit Card Utilization,balance/credit amount  bankcard trades
+m_CAAS_CA_clu_30_days_ago,2,0,Total number of non-traditional inquiries clusters in the last 30 days,Inquiries,iqo online/non trad loans short-term
+m_CAAS_CA_clu_90_days_ago,2,0,Total number of non-traditional inquiries clusters in the last 90 days,Inquiries,iqo online/non trad loans short-term
+m_CCRS_C3_inq_60_days_ago,2,0,Total number of Online Installment inquiries in the last 60 days,Inquiries,iqo online/non trad loans short-term
+m_CCRS_C3_inq_90_days_ago,2,0,Total number of Online Installment inquiries in the last 90 days,Inquiries,iqo online/non trad loans short-term
+m_CCRS_CA_inq_180_days_ago,2,0,Total number of non-traditional inquiries in the last 180 days,Inquiries,iqo online/non trad loans short-term
+m_CCRS_CA_inq_30_days_ago,2,0,Total number of non-traditional inquiries in the last 30 days,Inquiries,iqo online/non trad loans short-term
+m_CCRS_CA_inq_60_days_ago,2,0,Total number of non-traditional inquiries in the last 60 days,Inquiries,iqo online/non trad loans short-term
+m_CCRS_CA_inq_90_days_ago,2,0,Total number of non-traditional inquiries in the last 90 days,Inquiries,iqo online/non trad loans short-term
+m_caaea_iqt9410,2,1,Total number of inquiries,Inquiries,
+m_CAAS_CA_clu_15_days_ago,2,1,Total number of non-traditional inquiries clusters in the last 15 days,Inquiries,iqo online/non trad loans short-term
+m_CAAS_CA_clu_180_days_ago,2,1,Total number of non-traditional inquiries clusters in the last 180 days,Inquiries,iqo online/non trad loans short-term
+m_CCRS_C1_inq_1_year_ago,2,1,Number of Online Single Payment inquiries in the last 1 year,Inquiries,iqo online/non trad loans long-term
+m_CCRS_CA_inq_15_days_ago,2,1,Total number of non-traditional inquiries in the last 15 days,Inquiries,iqo online/non trad loans short-term
+m_CAAS_C3_inq_2_years_ago,2,3,Total number of Online Installment inquiries in the last 2 years,Inquiries,iqo online/non trad loans long-term
+m_CAAS_C3_inq_3_years_ago,2,3,Total number of Online Installment inquiries in the last 3 years,Inquiries,iqo online/non trad loans long-term
+m_CAAS_CA_inq_2_years_ago,2,3,Total number of non-traditional inquiries seen in the last 2 years,Inquiries,iqo online/non trad loans long-term
+m_CCRS_C3_inq_1_year_ago,2,3,Total number of Online Installment inquiries in the last 1 year,Inquiries,iqo online/non trad loans long-term
+m_CCRS_CA_inq_1_year_ago,2,3,Total number of non-traditional inquiries in the last 1 year,Inquiries,iqo online/non trad loans long-term
+m_inq_total_historical_inquiries,2,3,Total count of historical inquiries for this Social Security Number (SSN).,Inquiries,iqo online/non trad loans long-term
+m_CAAS_C3_nto_24_hours_ago,1,,Number of Online Installment loans in the last 24 hours,Loan Activity,nto bankcard trades
+m_CCRS_C3_dd_1_year_ago,1,,Number of days with one or more Online Installment loans in the last year,Loan Activity,nto/dd online loans
+m_CCRS_C3_dd_15_days_ago,1,,Number of days with one or more Online Installment loans in the last 15 days,Loan Activity,nto/dd online loans
+m_CCRS_C3_dd_180_days_ago,1,,Number of days with one or more Online Installment loans in the last 180 days,Loan Activity,nto/dd online loans
+m_CCRS_C3_dd_30_days_ago,1,,Number of days with one or more Online Installment loans in the last 30 days,Loan Activity,nto/dd online loans
+m_CCRS_C3_dd_60_days_ago,1,,Number of days with one or more Online Installment loans in the last 60 days,Loan Activity,nto/dd online loans
+m_CCRS_C3_dd_90_days_ago,1,,Number of days with one or more Online Installment loans in the last 90 days,Loan Activity,nto/dd online loans
+m_CCRS_C3_nto_15_days_ago,1,,Number of Online Installment loans in the last 15 days,Loan Activity,nto/dd online loans
+m_CCRS_C3_nto_180_days_ago,1,,Number of Online Installment loans in the last 180 days,Loan Activity,nto/dd online loans
+m_CCRS_C3_nto_2_years_ago,1,,Number of Online Installment loans in the last 2 years,Loan Activity,nto/dd online loans
+m_ccr_amount_of_loans,2,1,Total dollar amount of loans opened,Loan Activity,ato all loans
+m_ccr_amt_of_loans_paid_off,2,1,Total dollar amount of paid off loans,Loan Activity,ato all loans
+m_ccr_num_of_loans,2,1,Total number of loans opened,Loan Activity,nto all loans
+m_ccr_num_of_loans_paid_off,2,1,Total number of loans reported as paid off,Loan Activity,nto all loans
+m_CCRS_ALL_ato_2_years_ago,2,1,Total amount of loans in the last 2 years,Loan Activity,ato all loans
+m_CCRS_ALL_dd_3_years_ago,2,1,Number of days with one or more open/active loans in the last 3 years,Loan Activity,dd all loans
+m_CCRS_ALL_nto_1_year_ago,2,1,Number of loans in the last 1 year,Loan Activity,nto all loans
+m_CCRS_ALL_nto_2_years_ago,2,1,Number of loans in the last 2 years,Loan Activity,nto all loans
+m_CCRS_C3_ato_1_year_ago,2,1,Total amount of Online Installment loans in the last year,Loan Activity,ato all loans
+m_CCRS_C3_dd_7_years_ago,2,1,Number of days with one or more Online Installment loans in the last 7 years,Loan Activity,nto/dd online loans
+m_CCRS_C3_nto_3_years_ago,2,1,Number of Online Installment loans in the last 3 years,Loan Activity,nto/dd online loans
+m_CAAS_ALL_ato_7_days_ago,2,2,Total amount of loans in the last 7 days,Loan Activity,ato/nto/dd loans short-term
+m_CAAS_ALL_dd_7_days_ago,2,2,Number of days with one or more open/active loans in the last 7 days,Loan Activity,ato/nto/dd loans short-term
+m_CCRS_ALL_ato_1_year_ago,2,2,Total amount of loans in the last 1 year,Loan Activity,ato/nto/dd loans short-term
+m_CCRS_ALL_dd_1_year_ago,2,2,Number of days with one or more open/active loans in the last 1 year,Loan Activity,ato/nto/dd loans short-term
+m_CCRS_ALL_nto_15_days_ago,2,2,Number of loans in the last 15 days,Loan Activity,ato/nto/dd loans short-term
+m_CCRS_ALL_nto_60_days_ago,2,2,Number of loans in the last 60 days,Loan Activity,ato/nto/dd loans short-term
+m_CAAS_C5_inq_2_years_ago,,,Total number of Rent to Own Credit inquiries in the last 2 years,Inquiries,
+m_ccrea_fip1380,,,Total number of personal finance trades never delinquent or derogatory in the last 24 months,Bank/Credit Card Activity & Trades,
+m_ccrea_iln7150,,,Overall scheduled payment to actual payment ratio on open installment trades with actual payment > $0 reported in last 6 months,Credit Card Utilization,
